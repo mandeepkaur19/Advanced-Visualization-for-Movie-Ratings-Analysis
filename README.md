@@ -1,6 +1,6 @@
 # Repository Name: Advanced Visualization for Movie Ratings Analysis
-Overview
-This repository provides an in-depth analysis of movie ratings from critics and audiences. The dataset, Movie-Rating.csv, includes comprehensive information on films, such as genre, Rotten Tomatoes ratings, audience reviews, budget, and release year.
+* Overview
+* This repository provides an in-depth analysis of movie ratings from critics and audiences. The dataset, Movie-Rating.csv, includes comprehensive information on films, such as genre, Rotten Tomatoes ratings, audience reviews, budget, and release year.
 
 Features
 Data Cleaning and Preparation: Contains procedures for cleaning and transforming the dataset, including data type conversions and column renaming.
